@@ -1,4 +1,4 @@
-# Supermaio2D
+# Supermario2D
 
 Unity를 활용하여 제작한 mario 게임입니다.
 
